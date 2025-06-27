@@ -34,7 +34,7 @@ Azure Bastion has been deployed into the primary region virtual network. Both th
 
 Click the Deploy To Azure button below.
 
-[![Deploy to Azure]([https://aka.ms/deploytoazurebutton)](https://github.com/HAL900025/azure-site-recovery-demo/blob/main/azuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://github.com/HAL900025/azure-site-recovery-demo/blob/main/azuredeploy.json)
 
 ### Installation with Azure CLI
 1. Set the following variables:
